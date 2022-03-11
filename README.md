@@ -1,2 +1,2 @@
 # personal-website
-My Personal website in Github
+SEO Consultant cum Trainer from Kerala
