@@ -41,5 +41,5 @@ I am also running some personal websites.
 ```
 ## Follow me
 To get my tips & articles about SEO and all, please follow the following social media pages.
--[Linkedin](https://www.linkedin.com/in/sapbrain/)
--[Instagram](https://www.instagram.com/onlineseoconverter/)
+- [Linkedin](https://www.linkedin.com/in/sapbrain/)
+- [Instagram](https://www.instagram.com/onlineseoconverter/)
