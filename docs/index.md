@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Syam K S (SEO Consultant cum Trainer from Kerala)
+[Image](https://media-exp1.licdn.com/dms/image/C4D03AQG_I1WmYEF4hA/profile-displayphoto-shrink_400_400/0/1516528617731?e=1652313600&v=beta&t=_6GXmAdjTJMTWfrkPVCiBatV4FBBWjG3-I524rl4XcU)
 
-You can use the [editor on GitHub](https://github.com/syamsasi/personal-website/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+I am Syam, from Cochin, Kerala. Passionate about websites, digital marketing, online application coding etc... Working as freelancer SEO consulatnt, SEO trainer and also undertaking online application development projects. Running a virtual company using more than 60 freelancers. 
+
+I am also running some personal websites 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
